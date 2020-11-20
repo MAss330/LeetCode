@@ -1,2 +1,3 @@
-# LeetCode
-记录刷题
+## LeetCode
+
+每天都要进步啊！！
